@@ -1,4 +1,3 @@
-
 var menuIcon = document.querySelector(".menu-icon");
 var sidebar = document.querySelector(".side-bar");
 var container = document.querySelector(".container");
